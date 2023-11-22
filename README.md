@@ -1,1 +1,1 @@
-# Netflix : Data Exploration and Visualisation
+# Netflix Casestudy: Data Exploration and Visualisation
